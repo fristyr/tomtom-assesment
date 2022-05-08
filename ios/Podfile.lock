@@ -748,7 +748,7 @@ SPEC CHECKSUMS:
   EXUpdatesInterface: a9814f422d3cd6e7cfd260d13c27786148ece20e
   EXWebBrowser: f1573262c5de753987ed526c630076eda130804d
   FBLazyVector: c71c5917ec0ad2de41d5d06a5855f6d5eda06971
-  FBReactNativeSpec: 541edca6b9edaa2454ad6772430018d5491b1c33
+  FBReactNativeSpec: ef8be3aab11ba1fbc26c0b857a36671aebd37834
   glog: 73c2498ac6884b13ede40eda8228cb1eee9d9d62
   hermes-engine: 7d97ba46a1e29bacf3e3c61ecb2804a5ddd02d4f
   libevent: 4049cae6c81cdb3654a443be001fb9bdceff7913

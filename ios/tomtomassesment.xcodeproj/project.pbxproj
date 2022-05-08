@@ -7,39 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		102BE659FF924B4EBBBBAE01 /* noop-file.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DF5D5EA15AA4A99B0B1C7E2 /* noop-file.swift */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		1DFDA7BE4E084275AF6D99E4 /* noop-file.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC77F7590604AC0979A4F32 /* noop-file.swift */; };
 		3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */; };
-		4BA4FF67282672C200F77775 /* MyNetworkLayerModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA4FF66282672C200F77775 /* MyNetworkLayerModule.swift */; };
-		4BA4FF692826745B00F77775 /* MyNetworkLayerModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BA4FF682826745B00F77775 /* MyNetworkLayerModule.m */; };
-		6E573E34E7884257AB16965D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8507CF7DBB3F450398822CCF /* InfoPlist.strings */; };
+		4BA4FF7328286AF100F77775 /* MyNetworkLayerModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA4FF7228286AF100F77775 /* MyNetworkLayerModule.swift */; };
+		4BA4FF7528286B9300F77775 /* MyNetworkLayerModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BA4FF7428286B9300F77775 /* MyNetworkLayerModule.m */; };
+		58DF4947817B48CA9C5BB6E4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = AC3E3ED919BA4437BF1EA40D /* InfoPlist.strings */; };
 		96905EF65AED1B983A6B3ABC /* libPods-tomtomassesment.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 58EEBF8E8E6FB1BC6CAF49B5 /* libPods-tomtomassesment.a */; };
 		B18059E884C0ABDD17F3DC3D /* ExpoModulesProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC715A2D49A985799AEE119 /* ExpoModulesProvider.swift */; };
 		BB2F792D24A3F905000567C9 /* Expo.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB2F792C24A3F905000567C9 /* Expo.plist */; };
-		FD12F5FFB0164594ABAEFACE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BC1B828C4A514000A631CCAE /* InfoPlist.strings */; };
+		E6F4A9D780E64B92B2DF540E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4E0A860397C14C37946203A6 /* InfoPlist.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
+		0CCF014F72154AA8968C3D8D /* tomtomassesment-Bridging-Header.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = "tomtomassesment-Bridging-Header.h"; path = "tomtomassesment/tomtomassesment-Bridging-Header.h"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* tomtomassesment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tomtomassesment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = tomtomassesment/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = tomtomassesment/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = tomtomassesment/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = tomtomassesment/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = tomtomassesment/main.m; sourceTree = "<group>"; };
-		4BA4FF66282672C200F77775 /* MyNetworkLayerModule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNetworkLayerModule.swift; sourceTree = "<group>"; };
-		4BA4FF682826745B00F77775 /* MyNetworkLayerModule.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyNetworkLayerModule.m; sourceTree = "<group>"; };
-		56559A7005364258A69B818F /* tomtomassesment-Bridging-Header.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = "tomtomassesment-Bridging-Header.h"; path = "tomtomassesment/tomtomassesment-Bridging-Header.h"; sourceTree = "<group>"; };
+		2DF5D5EA15AA4A99B0B1C7E2 /* noop-file.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; name = "noop-file.swift"; path = "tomtomassesment/noop-file.swift"; sourceTree = "<group>"; };
+		4BA4FF7228286AF100F77775 /* MyNetworkLayerModule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNetworkLayerModule.swift; sourceTree = "<group>"; };
+		4BA4FF7428286B9300F77775 /* MyNetworkLayerModule.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyNetworkLayerModule.m; sourceTree = "<group>"; };
+		4E0A860397C14C37946203A6 /* InfoPlist.strings */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = text.plist.strings; name = InfoPlist.strings; path = "/Users/fristyr/Documents/tomtom-assesment/ios/tomtomassesment/Supporting/nl.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
 		58EEBF8E8E6FB1BC6CAF49B5 /* libPods-tomtomassesment.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-tomtomassesment.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C2E3173556A471DD304B334 /* Pods-tomtomassesment.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tomtomassesment.debug.xcconfig"; path = "Target Support Files/Pods-tomtomassesment/Pods-tomtomassesment.debug.xcconfig"; sourceTree = "<group>"; };
 		7A4D352CD337FB3A3BF06240 /* Pods-tomtomassesment.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tomtomassesment.release.xcconfig"; path = "Target Support Files/Pods-tomtomassesment/Pods-tomtomassesment.release.xcconfig"; sourceTree = "<group>"; };
-		8507CF7DBB3F450398822CCF /* InfoPlist.strings */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = text.plist.strings; name = InfoPlist.strings; path = "/Users/fristyr/Desktop/tomtom-assesment-project/ios/tomtomassesment/Supporting/en.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
 		AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = SplashScreen.storyboard; path = tomtomassesment/SplashScreen.storyboard; sourceTree = "<group>"; };
-		ACC77F7590604AC0979A4F32 /* noop-file.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; name = "noop-file.swift"; path = "tomtomassesment/noop-file.swift"; sourceTree = "<group>"; };
+		AC3E3ED919BA4437BF1EA40D /* InfoPlist.strings */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = text.plist.strings; name = InfoPlist.strings; path = "/Users/fristyr/Documents/tomtom-assesment/ios/tomtomassesment/Supporting/en.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
 		BB2F792C24A3F905000567C9 /* Expo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Expo.plist; sourceTree = "<group>"; };
-		BC1B828C4A514000A631CCAE /* InfoPlist.strings */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = text.plist.strings; name = InfoPlist.strings; path = "/Users/fristyr/Desktop/tomtom-assesment-project/ios/tomtomassesment/Supporting/nl.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		FAC715A2D49A985799AEE119 /* ExpoModulesProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExpoModulesProvider.swift; path = "Pods/Target Support Files/Pods-tomtomassesment/ExpoModulesProvider.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -67,10 +67,10 @@
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				13B07FB71A68108700A75B9A /* main.m */,
 				AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */,
-				ACC77F7590604AC0979A4F32 /* noop-file.swift */,
-				56559A7005364258A69B818F /* tomtomassesment-Bridging-Header.h */,
-				4BA4FF66282672C200F77775 /* MyNetworkLayerModule.swift */,
-				4BA4FF682826745B00F77775 /* MyNetworkLayerModule.m */,
+				2DF5D5EA15AA4A99B0B1C7E2 /* noop-file.swift */,
+				0CCF014F72154AA8968C3D8D /* tomtomassesment-Bridging-Header.h */,
+				4BA4FF7228286AF100F77775 /* MyNetworkLayerModule.swift */,
+				4BA4FF7428286B9300F77775 /* MyNetworkLayerModule.m */,
 			);
 			name = tomtomassesment;
 			sourceTree = "<group>";
@@ -82,22 +82,6 @@
 				58EEBF8E8E6FB1BC6CAF49B5 /* libPods-tomtomassesment.a */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		41F56320EB88456FBAA9FF91 /* nl.lproj */ = {
-			isa = PBXGroup;
-			children = (
-				BC1B828C4A514000A631CCAE /* InfoPlist.strings */,
-			);
-			name = nl.lproj;
-			sourceTree = "<group>";
-		};
-		76C74B69E5D04024916477D8 /* en.lproj */ = {
-			isa = PBXGroup;
-			children = (
-				8507CF7DBB3F450398822CCF /* InfoPlist.strings */,
-			);
-			name = en.lproj;
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -138,15 +122,31 @@
 			name = tomtomassesment;
 			sourceTree = "<group>";
 		};
+		B08ABCB7F52D4A8DAC75191C /* nl.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				4E0A860397C14C37946203A6 /* InfoPlist.strings */,
+			);
+			name = nl.lproj;
+			sourceTree = "<group>";
+		};
 		BB2F792B24A3F905000567C9 /* Supporting */ = {
 			isa = PBXGroup;
 			children = (
 				BB2F792C24A3F905000567C9 /* Expo.plist */,
-				41F56320EB88456FBAA9FF91 /* nl.lproj */,
-				76C74B69E5D04024916477D8 /* en.lproj */,
+				B08ABCB7F52D4A8DAC75191C /* nl.lproj */,
+				C13D27B5215241D8BB534EF2 /* en.lproj */,
 			);
 			name = Supporting;
 			path = tomtomassesment/Supporting;
+			sourceTree = "<group>";
+		};
+		C13D27B5215241D8BB534EF2 /* en.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				AC3E3ED919BA4437BF1EA40D /* InfoPlist.strings */,
+			);
+			name = en.lproj;
 			sourceTree = "<group>";
 		};
 		D65327D7A22EEC0BE12398D9 /* Pods */ = {
@@ -180,7 +180,7 @@
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
 				800E24972A6A228C8D4807E9 /* [CP] Copy Pods Resources */,
-				08CA8BEE2B31B95CB053E2B5 /* [CP] Embed Pods Frameworks */,
+				2E0E2D20FB2ACC64C62E6536 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -231,8 +231,8 @@
 				BB2F792D24A3F905000567C9 /* Expo.plist in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */,
-				FD12F5FFB0164594ABAEFACE /* InfoPlist.strings in Resources */,
-				6E573E34E7884257AB16965D /* InfoPlist.strings in Resources */,
+				E6F4A9D780E64B92B2DF540E /* InfoPlist.strings in Resources */,
+				58DF4947817B48CA9C5BB6E4 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,7 +275,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		08CA8BEE2B31B95CB053E2B5 /* [CP] Embed Pods Frameworks */ = {
+		2E0E2D20FB2ACC64C62E6536 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -345,12 +345,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BA4FF67282672C200F77775 /* MyNetworkLayerModule.swift in Sources */,
+				4BA4FF7328286AF100F77775 /* MyNetworkLayerModule.swift in Sources */,
 				13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */,
-				4BA4FF692826745B00F77775 /* MyNetworkLayerModule.m in Sources */,
+				4BA4FF7528286B9300F77775 /* MyNetworkLayerModule.m in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 				B18059E884C0ABDD17F3DC3D /* ExpoModulesProvider.swift in Sources */,
-				1DFDA7BE4E084275AF6D99E4 /* noop-file.swift in Sources */,
+				102BE659FF924B4EBBBBAE01 /* noop-file.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
